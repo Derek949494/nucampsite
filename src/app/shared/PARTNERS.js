@@ -11,7 +11,7 @@ export const PARTNERS = [
         featured: false,
         description:
             "Bootstrap Outfitters supplies you with the gear you need at prices you can't beat."
-    },
+    }, 
     {
         id: 1,
         name: 'Git Out Expeditions',
