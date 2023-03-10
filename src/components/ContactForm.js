@@ -127,7 +127,6 @@ const ContactForm = () => {
                     </Col>
                 </FormGroup>
             </Form>
-
     </Formik>
   )
 }
